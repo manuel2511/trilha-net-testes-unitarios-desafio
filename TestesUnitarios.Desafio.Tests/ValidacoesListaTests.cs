@@ -18,6 +18,7 @@ public class ValidacoesListaTests
 
         // Assert
         Assert.Equal(resultadoEsperado, resultado);
+        
     }
 
     [Fact]
